@@ -1,1 +1,3 @@
-# React
+# ReactJS
+   just some practice projects
+   
